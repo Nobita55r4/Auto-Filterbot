@@ -10,7 +10,7 @@
 [![Stars](https://img.shields.io/github/stars/CyniteOfficial/Auto-Filter-Bot?style=flat-square&color=orange)](https://github.com/CyniteOfficial/Auto-Filter-Bot/stargazers)
 [![Forks](https://img.shields.io/github/forks/CyniteOfficial/Auto-Filter-Bot?style=flat-square&color=blue)](https://github.com/CyniteOfficial/Auto-Filter-Bot/fork)
 [![Size](https://img.shields.io/github/repo-size/CyniteOfficial/Auto-Filter-Bot?style=flat-square&color=black)](https://github.com/CyniteOfficial/Auto-Filter-Bot)   
-[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=110)](https://github.com/Aadhi000/Ajax)   
+[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=110)]Auto-Filterbot  
 [![Contributors](https://img.shields.io/github/contributors/Aadhi000/Auto-Filter-Bot?style=flat-square&color=green)](https://github.com/CyniteOfficial/Auto-Filter-Bot/graphs/contributors)
 ## Features
 
